@@ -43,6 +43,29 @@ title: CMDR 4RKOZ
 </a>
 </div>
 
+## map scale
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin: 2rem 0;">
+<a href="{{ 'assets/images/scale.png' | relative_url }}">
+  <img src="{{ 'assets/images/scale.png' | relative_url }}"
+       alt="map scale"
+       width="700"     
+       style="max-width:100%; height:auto;"
+       loading="lazy">
+</a>
+</div>
+
+## key
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin: 2rem 0;">
+<a href="{{ 'assets/images/key.png' | relative_url }}">
+  <img src="{{ 'assets/images/key.png' | relative_url }}"
+       alt="key"
+       width="700"     
+       style="max-width:100%; height:auto;"
+       loading="lazy">
+</a>
+</div>
 
 
 
