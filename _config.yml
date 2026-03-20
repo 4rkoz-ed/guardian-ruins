@@ -1,5 +1,6 @@
 title: Guardian Ruins
-description: A Jekyll site with Moon theme
 baseurl: ""
-url: ""
+description: A Jekyll site for Guardian Ruins
+url: https://example.com
 theme: jekyll-theme-minimal
+permalink: /:categories/:title/
