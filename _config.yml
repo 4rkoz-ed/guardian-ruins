@@ -1,6 +1,28 @@
-title: Guardian Ruins
-baseurl: ""
-description: A Jekyll site for Guardian Ruins
-url: https://example.com
-theme: jekyll-theme-minimal
-permalink: /:categories/:title/
+title: Elite Dangerous – Guardian Ruins
+description: Przewodnik po ruinach Strażników – układanie puzzli, blue printy, lokalizacje, obeliski
+
+remote_theme: pages-themes/midnight@v0.2.0
+# albo alternatywnie (też bardzo ciemny i czytelny):
+# remote_theme: pages-themes/hacker
+
+plugins:
+  - jekyll-remote-theme
+
+# ----------------------------------------------------
+# opcjonalne fajne ustawienia
+# ----------------------------------------------------
+
+markdown: kramdown
+highlighter: rouge
+
+# kolory i akcenty (działa głównie z midnight / hacker)
+accent_color: "#00d4ff"           # cyjan – bardzo guardianowo
+link_color: "#66e0ff"
+visited_link_color: "#33ccff"
+
+# ukrywa zbędne elementy
+show_downloads: false
+show_footer: true
+
+# polskie znaki + UTF-8
+encoding: UTF-8
