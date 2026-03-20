@@ -1,13 +1,10 @@
 ---
 layout: default
-title: Elite Dangerous - Guardian Ruins
+title: CMDR 4RKOZ
 ---
 
 <div class="hero" style="text-align:center; padding: 2rem 1rem; background: linear-gradient(to bottom, #0a1f2e, #000); border-radius: 12px; margin-bottom: 2rem;">
-  <h1 style="color: #00d4ff; margin-bottom: 0.4rem;">Guardian Ruins</h1>
-  <p style="color: #88ddff; font-size: 1.2rem; max-width: 760px; margin: 0 auto;">
-    
-  </p>
+  <h1 style="color: #00d4ff; margin-bottom: 0.4rem;">Guardian Ruins Starmap</h1>
 </div>
 
 ## Eta Carina Sector EL-Y d16 ABC 4 a (ancient ruins #1)
@@ -25,13 +22,25 @@ title: Elite Dangerous - Guardian Ruins
 ## Blae Eork QU-D D13-3 3 (ancient ruins #1)
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin: 2rem 0;">
-<img src="{{ "assets/images/Blae_Eork_QU-D_D13-3_3_ancien.t_ruins_1.png" | relative_url }}" alt="Blae Eork QU-D D13-3 3 (ancient ruins #1)" width="600" style="max-width:100%; height:auto;">
+<a href="{{ 'assets/images/Blae_Eork_QU-D_D13-3_3_ancien.t_ruins_1.png' | relative_url }}">
+  <img src="{{ 'assets/images/Blae_Eork_QU-D_D13-3_3_ancien.t_ruins_1.png' | relative_url }}"
+       alt="Blae Eork QU-D D13-3 3 (ancient ruins #1)"
+       width="700"     
+       style="max-width:100%; height:auto;"
+       loading="lazy">
+</a>
 </div>
 
 ## mixed
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin: 2rem 0;">
-<img src="{{ "assets/images/mixed.png" | relative_url }}" alt="mixed" width="600" style="max-width:100%; height:auto;">
+<a href="{{ 'assets/images/mixed.png' | relative_url }}">
+  <img src="{{ 'assets/images/mixed.png' | relative_url }}"
+       alt="mixed"
+       width="700"     
+       style="max-width:100%; height:auto;"
+       loading="lazy">
+</a>
 </div>
 
 
