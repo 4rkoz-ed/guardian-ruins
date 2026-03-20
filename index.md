@@ -14,26 +14,23 @@ title: Elite Dangerous - Guardian Ruins
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin: 2rem 0;">
 <img src="{{ "assets/images/Eta_Carina_Sector_EL-Y_d16_ABC_4_a_ancient_ruins_1.png" | relative_url }}" alt="Eta Carina Sector EL-Y d16 ABC 4 a (ancient ruins #1)" width="600" style="max-width:100%; height:auto;">
-
 </div>
 
 ## Blae Eork QU-D D13-3 3 (ancient ruins #1)
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin: 2rem 0;">
-![Blae Eork QU-D D13-3 3 (ancient ruins #1)][2]
+<img src="{{ "assets/images/Blae_Eork_QU-D_D13-3_3_ancien.t_ruins_1.png" | relative_url }}" alt="Blae Eork QU-D D13-3 3 (ancient ruins #1)" width="600" style="max-width:100%; height:auto;">
 </div>
 
 ## mixed
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin: 2rem 0;">
-![mixed][3]
+<img src="{{ "assets/images/mixed.png" | relative_url }}" alt="mixed" width="600" style="max-width:100%; height:auto;">
 </div>
 
 
 
 
 
-[1]: assets/images/Eta_Carina_Sector_EL-Y_d16_ABC_4_a_ancient_ruins_1.png
-[2]: assets/images/Blae_Eork_QU-D_D13-3_3_ancien.t_ruins_1.png
-[3]: assets/images/mixed.png
+
 
