@@ -13,7 +13,8 @@ title: Elite Dangerous - Guardian Ruins
 ## Eta Carina Sector EL-Y d16 ABC 4 a (ancient ruins #1)
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin: 2rem 0;">
-![Eta Carina Sector EL-Y d16 ABC 4 a (ancient ruins #1)][1]
+![Eta Carina Sector EL-Y d16 ABC 4 a (ancient ruins #1)]({{ site.baseurl }}assets/images/Eta_Carina_Sector_EL-Y_d16_ABC_4_a_ancient_ruins_1.png)
+
 </div>
 
 ## Blae Eork QU-D D13-3 3 (ancient ruins #1)
